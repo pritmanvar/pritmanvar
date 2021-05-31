@@ -1,27 +1,27 @@
 
 <h1 align="center">Hi 👋, I'm Prit Manvar</h1>
 
-<img align="right" alt="Coding" width="450" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/image.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/pritmanvar/pritmanvar/blob/main/gif/code.gif?raw=true">
 
 <h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
 --> Always ready to learn 🌈<br> --> Like to travel ✈</h3>
 <h2></h2>
 <h3 align="left">🔴Languages and Tools:</h3>
 <p align="left"> 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code> 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code> 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github" width="40" height="40"/></code></p>
+<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/c.png?raw=true" alt="c" width="40" height="40"/></code> 
+<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/c++.png?raw=true" alt="cplusplus" width="40" height="40"/></code> 
+<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/canva.png?raw=true" alt="canva" width="40" height="40"/></code> 
+<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/git.png?raw=true" alt="git" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/github.png?raw=true" alt="github" width="40" height="40"/></code></p>
 
 
 <h2></h2>
 <h3 align="left">🟢YOU CAN FIND ME HERE🤩👇</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/prit-manvar-36ab97204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Prit Manvar" height="30" width="40" /></a>
-<a href="https://github.com/pritmanvar" target="blank"><img align="center" src="https://camo.githubusercontent.com/bf4b11af389d1e0caf625c40c274ba71464727c43579e48f512112694888eb62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="Prit Manvar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prit_manvar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prit_manvar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pritmanvar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pritmanvar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prit-manvar-36ab97204/" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/linkedIn.png?raw=true" alt="LinkedIn" height="30" width="50" /></a>
+<a href="https://github.com/pritmanvar" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/github.png?raw=true" alt="Github" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prit_manvar" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/codechef.png?raw=true" alt="CodeChef" height="45" width="55" /></a>
 </p>
 
 <h2></h2>
