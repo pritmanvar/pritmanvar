@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQFvFsK1fYkJig/profile-displaybackgroundimage-shrink_200_800/0/1620490021277?e=1628121600&v=beta&t=vZkBXPVJO0DTleBB_nbzI_5K9r0EiBXIafzW9q7sjlI)
+
 <h1 align="center">Hi 👋, I'm Prit Manvar</h1>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/image.gif">
