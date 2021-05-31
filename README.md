@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Prit Manvar</h1>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/pritmanvar/pritmanvar/blob/main/gif/code.gif?raw=true">
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/pritmanvar/pritmanvar/3d97b6f2b52c980dcf2b373fe6fcc8afbdd8c5ce/gif/Coding%20_Monochromatic.svg">
 
 <h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
 --> Always ready to learn 🌈<br> --> Like to travel ✈</h3>
