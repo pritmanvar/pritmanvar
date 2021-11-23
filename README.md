@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/pritmanvar/pritmanvar/3d97b6f2b52c980dcf2b373fe6fcc8afbdd8c5ce/gif/Coding%20_Monochromatic.svg">
 
 <h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
---> Always ready to learn 🌈<br> --> Like to travel ✈</h3>
+--> Web Developer. <br> --> DSA Enthusiast <br> --> Always ready to learn 🌈<br> --> Like to travel ✈<br></h3>
 <h2></h2>
 <h3 align="left">🔴Languages and Tools:</h3>
 <p align="left"> 
@@ -12,7 +12,11 @@
 <code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/c++.png?raw=true" alt="cplusplus" width="40" height="40"/></code> 
 <code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/canva.png?raw=true" alt="canva" width="40" height="40"/></code> 
 <code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/git.png?raw=true" alt="git" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/github.png?raw=true" alt="github" width="40" height="40"/></code></p>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/HTML.png?raw=true" alt="HTML" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/CSS.png?raw=true" alt="CSS" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/JS.png?raw=true" alt="JS" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/github.png?raw=true" alt="github" width="40" height="40"/></code>
+</p>
 
 
 <h2></h2>
@@ -24,11 +28,6 @@
 <a href="https://www.codechef.com/users/prit_manvar" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/codechef.png?raw=true" alt="CodeChef" height="45" width="55" /></a>
 <a href="https://www.youtube.com/channel/UCOQVrFz2DTY6PewABNS4wHA" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/Youtube.png" alt="YouTube" height="30" width="50" /></a>
 </p>
-
-<h2></h2>
-<h3 align="left">🟡 I'm currently diving deeper into:</h3> 
- 🚀 Problem Solving by honing DSA skills<br>
- 🚀 Competitive Programming<br>
 
 <h2></h2>
 <h3 align="left"> 🔵 Github Status  <h3> 
